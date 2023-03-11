@@ -5,7 +5,7 @@
 
  Nicu FLORICA (niq_ro) made this changes:
  v.0 - added digital clock on this analog pseudoclock
- v.1 - clean the sketch + added NTP clock + DST switch (summer/winter time)
+ v.0a - clean the sketch + added NTP clock
  */
 
 #include <NTPClient.h>
